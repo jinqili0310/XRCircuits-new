@@ -1,0 +1,346 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "badf0713f6a4278535260e0f4e29993499d92df1",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 4007136,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "c726f30e30dea2f37fd0c2dd2d2c3373b293366b",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 58988528,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "63ea597a5f9c930cc98d05301af2fbb35b239228",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\libil2cpp.so-98ffb91d0166d8b6",
+   "xfrm_size": 58989286
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "37151eb2f083b629944e20982eb8b2879709e46c",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\AudioPluginMSASpatializer.so-9f15faafc6acacd0",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "f16240591751cab0078e249a2a55a3aaa3e957fc",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a9d212bb610d85fbee78c024b36ab6a45011aec7",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\UnityMagicLeap.so-9f15faafc6acacd0",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "c304dd41954e030c36437de3b651679e02512d0d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4a1411564d1c9c07c8147130447c97f4876e7e5e",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\libml_camera_plugin.so-9f15faafc6acacd0",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "6a0b868a47b45da60d66c10ba6a0195b85f54e43",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "81460fb2c130aadb0557ffa32d0cd48dc1b7307d",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\libml_mediaplayer_plugin.so-9f15faafc6acacd0",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "9c080914ee6f4b2c7c72fb6456a90c1d514f1a2f",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754668,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "fd1a9f05174d65c0f1cf583350597a07de0c9160",
+   "pkgpath": "Data/boot.config",
+   "size": 299,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "ad6c66b3380e2c84af4741412eb9d498966fac22",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 44064,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "5625f90adbc897c61e8f6a0f1da408629afbc62d",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 48112,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "bd114709fc199965a7223e874fd576927f0364f7",
+   "pkgpath": "Data/level0",
+   "size": 28308,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "39ec2ee20ad5d6b7caa7918d117e4e75403975da",
+   "pkgpath": "Data/level1",
+   "size": 123424,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/level1"
+  },
+  {
+   "compression": 8,
+   "hash": "9e39a2b5abb24ed3269a94116e6351d6d776b11d",
+   "pkgpath": "Data/level1.resS",
+   "size": 131232,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/level1.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "83c947d4a635dd278d0a50d10e5139c478b45e48",
+   "pkgpath": "Data/level2",
+   "size": 84440,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/level2"
+  },
+  {
+   "compression": 8,
+   "hash": "9e39a2b5abb24ed3269a94116e6351d6d776b11d",
+   "pkgpath": "Data/level2.resS",
+   "size": 131232,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/level2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8b3b99cf8a94865a001ae9e10ac41c0afaf693bd",
+   "pkgpath": "Data/level3",
+   "size": 83224,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/level3"
+  },
+  {
+   "compression": 8,
+   "hash": "d7908cd62af5935a76783f412af8b2f3352b52d6",
+   "pkgpath": "Data/resources.assets",
+   "size": 19144,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "dbac654a190b338e451b2f61426c7039c9d4506a",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 1506728,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "bbcea509aba607f583570a4f39836bd2d34b9dca",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 9907208,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "7a74eee1353df101d8d225ee34c81ebf1b20d7b0",
+   "pkgpath": "Data/sharedassets1.assets",
+   "size": 1566260,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets1.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f0b1113039b5e23f302d28d8ca2ce7222b33fee3",
+   "pkgpath": "Data/sharedassets1.assets.resS",
+   "size": 21363208,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets1.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "2a8fe6c0ccf5aa438b5538d7f8ddfa7b0bef9b1a",
+   "pkgpath": "Data/sharedassets2.assets",
+   "size": 8188,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets2.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f58e2a88a48ae02a8989f08c85de7dce238d2626",
+   "pkgpath": "Data/sharedassets2.assets.resS",
+   "size": 143648,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets2.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "820a75d8a7d6db2e10c8c694134b9edb6c4ffff7",
+   "pkgpath": "Data/sharedassets3.assets",
+   "size": 6569,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Data/sharedassets3.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "864de483f4084b04b5d2db8bb126550b09b1bcd1",
+   "pkgpath": "bin/Player.elf",
+   "size": 48673592,
+   "src": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1ebe54053da2e3acaff238fd571529afaa936c9f",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\Player.elf-76f8c0934c774b37",
+   "xfrm_size": 48674350
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/H/MagicLeap/mlsdk/v0.21.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "70d776ae2ce0ce25ee0ccdc0032e0745ab83adfe",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\libc++_shared.so-bcf9ea8fe0e768bb",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "4e33a61823248908c7598051159def9532f424dc",
+   "pkgpath": "manifest.xml",
+   "size": 3566,
+   "src": "C:\\Users\\H\\Documents\\GitHubProj\\MagicLeap\\MLCircuits\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "61b0655304e9fecb227675c052ac737578c391df",
+     "developer_id": "c886091e-a91e-4ee1-aa0b-eda8a2b5b30b"
+    }
+   },
+   "xfrm_hash": "40501d9e751521171c2125b4f6bae51e627b2f48",
+   "xfrm_path": "C:/Users/H/Documents/GitHubProj/MagicLeap/MLCircuits/.out/.cache/debug_lumin_clang-3.8_aarch64/com.ecedept.circuitsar4-f0b92d16f371c3dc\\manifest.xml-76f8c0934c774b37",
+   "xfrm_size": 1216
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\H\\MagicLeap\\Certificates\\mlcircuits.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
