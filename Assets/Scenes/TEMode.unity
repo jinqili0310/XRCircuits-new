@@ -1064,9 +1064,6 @@ MonoBehaviour:
   SimulationVideo2: {fileID: 405615567}
   SimulationVideo3: {fileID: 758156437}
   BaseVideo: {fileID: 1086699041}
-  Diagram1: {fileID: 1518880561}
-  Diagram2: {fileID: 1768298000}
-  Diagram3: {fileID: 1236402630}
   BackBtn: {fileID: 1421435886}
   ForwardBtn: {fileID: 1458340463}
 --- !u!114 &384587740
@@ -1160,7 +1157,7 @@ PrefabInstance:
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13500002
+      value: -0.058
       objectReference: {fileID: 0}
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
@@ -1821,7 +1818,7 @@ PrefabInstance:
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13500002
+      value: -0.058
       objectReference: {fileID: 0}
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
@@ -2431,7 +2428,7 @@ PrefabInstance:
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13500002
+      value: -0.058
       objectReference: {fileID: 0}
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
@@ -2997,7 +2994,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1572420545925630, guid: d0351538d524663448f7c5b7db4a371b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4018455496156162, guid: d0351538d524663448f7c5b7db4a371b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3478,7 +3475,7 @@ PrefabInstance:
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13500002
+      value: -0.058
       objectReference: {fileID: 0}
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
@@ -4178,7 +4175,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1572420545925630, guid: d0351538d524663448f7c5b7db4a371b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4018455496156162, guid: d0351538d524663448f7c5b7db4a371b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5268,12 +5265,6 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!1 &1518880561 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1572420545925630, guid: d0351538d524663448f7c5b7db4a371b,
-    type: 3}
-  m_PrefabInstance: {fileID: 939671302}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1518880562 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4018455496156162, guid: d0351538d524663448f7c5b7db4a371b,
@@ -5424,7 +5415,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1572420545925630, guid: d0351538d524663448f7c5b7db4a371b, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4018455496156162, guid: d0351538d524663448f7c5b7db4a371b, type: 3}
       propertyPath: m_LocalPosition.x

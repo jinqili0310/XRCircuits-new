@@ -3471,7 +3471,7 @@ PrefabInstance:
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13500002
+      value: -0.058
       objectReference: {fileID: 0}
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
@@ -4586,7 +4586,7 @@ PrefabInstance:
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.13500002
+      value: -0.058
       objectReference: {fileID: 0}
     - target: {fileID: 8784811533720729399, guid: 7b3fbf5333d08cb4aabe4e3c7b42e32e,
         type: 3}
@@ -5820,12 +5820,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1846530438}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1846530440 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1572420545925630, guid: d0351538d524663448f7c5b7db4a371b,
-    type: 3}
-  m_PrefabInstance: {fileID: 1846530438}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1877561778
 GameObject:
   m_ObjectHideFlags: 0
@@ -6305,9 +6299,6 @@ MonoBehaviour:
   SimulationVideo2: {fileID: 588665954}
   SimulationVideo3: {fileID: 5649848942469625052}
   BaseVideo: {fileID: 955670016}
-  Diagram1: {fileID: 1846530440}
-  Diagram2: {fileID: 602087762}
-  Diagram3: {fileID: 1214045523}
   BackBtn: {fileID: 1877561778}
   ForwardBtn: {fileID: 1016891509}
 --- !u!1 &2079229888

@@ -1510,7 +1510,7 @@ ScriptsOnlyBuild:
     className: HandTracking
   - hash:
       serializedVersion: 2
-      Hash: 3955996e4b33e81eb5f1c29cd3cf7b6f
+      Hash: 03ac422d599f90be6e8fa77eafa6423f
     assemblyName: Assembly-CSharp.dll
     namespaceName: MagicLeap
     className: TEMode
@@ -1934,4 +1934,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/KCLMode.unity
   - Assets/Scenes/TEMode.unity
   - Assets/Scenes/RCLMode.unity
-  playerPath: C:/Users/jxl2047/Desktop/ML/demo0203.mpk
+  playerPath: C:/Users/jxl2047/Desktop/XRCircuits-new/demo4.mpk
