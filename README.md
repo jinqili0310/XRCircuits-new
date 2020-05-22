@@ -1,2 +1,2 @@
 # XRCircuits-new
-### [Demo (with placeholders](https://youtu.be/EuMM7NejYy4)
+### [Demo (with placeholders)](https://youtu.be/EuMM7NejYy4)
